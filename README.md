@@ -1,11 +1,11 @@
-# Caua-Vicentini
+# Caua Vicentini
 
 
 ## 👨‍🎓 Sobre Mim
 
-- 🖋**Nome:** Cauã Vicentini  
+- 🖋**Nome:** Cauã Gabriel Vicentini Teixeira
 - 🏤**Faculdade:** UniCesumar/Mgá 
-- 📚 **Curso:** Engenharia de Software 
+- 📚 **Cursando:** Engenharia de Software 
 - ⌛**Período:** 1º semestre 
 
 ## 🚀 Interesse na Área
